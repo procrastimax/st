@@ -1,3 +1,9 @@
+# Master Branch
+THIS IS THE MASTER BRANCH.
+ALL OTHER BRANCHES WERE MERGED INTO THIS BRANCH.
+THIS BRANCH CONTAINS ALL APPLIED PATCHES!
+
+## ORIGINAL README
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
