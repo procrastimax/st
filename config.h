@@ -7,6 +7,11 @@
  */
 static char *font = "FiraCode-Regular:pixelsize=12:antialias=true:autohint=true";
 static int borderpx = 4;
+/* Spare fonts */
+static char *font2[] = {
+/*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
+	"Hack Nerd Font Mono:pixelsize=12:antialias=true:autohint=true",
+};
 
 /*
  * What program is execed by st depends of these precedence rules:
