@@ -3,6 +3,9 @@ THIS IS THE MASTER BRANCH.
 ALL OTHER BRANCHES WERE MERGED INTO THIS BRANCH.
 THIS BRANCH CONTAINS ALL APPLIED PATCHES!
 
+## Ligatures
+The ligature patch was applied on top of the scrollback and boxdraw patch.
+
 ## ORIGINAL README
 st - simple terminal
 --------------------
